@@ -13,7 +13,7 @@
 ## mt
 - [x] start
 - [x] git status
-- [ ] git add/commit
+- [x] git add/commit
 - [ ] git diff
 - [ ] git pull/push
 - [ ] git branch/checkout
