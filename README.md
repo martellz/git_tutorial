@@ -24,7 +24,7 @@
 - [ ] (optional) git reflog
 
 - [ ] (optional) git cherry-pick
-      
+
 - [ ] github workflow
 
 ## cx
