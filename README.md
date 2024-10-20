@@ -14,7 +14,7 @@
 - [x] start
 - [x] git status
 - [x] git add/commit
-- [ ] git diff
+- [x] git diff
 - [ ] git pull/push
 - [ ] git branch/checkout
 - [ ] git rebase
