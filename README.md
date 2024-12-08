@@ -27,4 +27,8 @@
 
 - [ ] github workflow
 
-## cx
+## cx : git for mathematicians
+
+- [x] Share the same start with mt's tutorial
+- [ ] Git is a DAG
+- [ ] Have fun on the DAG with git
