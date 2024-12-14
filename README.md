@@ -30,5 +30,5 @@
 ## cx : git for mathematicians
 
 - [x] Share the same start with mt's tutorial
-- [ ] Git is a DAG
-- [ ] Have fun on the DAG with git
+- [x] Git is a DAG
+- [x] Have fun on the DAG with git
